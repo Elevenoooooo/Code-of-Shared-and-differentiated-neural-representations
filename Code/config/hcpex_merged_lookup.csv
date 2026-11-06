@@ -1,0 +1,257 @@
+﻿HCPex_ID,HCPex_LR,HCPex_Parcel,Merged_ROI_ID,Merged_ROI_Abbrev,Merged_ROI_EN,Merged_ROI_CN,Merged_ROI_TotalVox
+1,L,V1,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+2,L,V2,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+3,L,V3,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+4,L,V4,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+6,L,V3A,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+7,L,V3B,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+8,L,V6,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+9,L,V6A,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+10,L,V7,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+25,L,V3CD,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+26,L,V4t,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+181,R,V1,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+182,R,V2,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+183,R,V3,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+184,R,V4,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+186,R,V3A,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+187,R,V3B,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+188,R,V6,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+189,R,V6A,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+190,R,V7,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+205,R,V3CD,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+206,R,V4t,1,OVC,Occipital visual cortex,枕叶视觉皮层,10823
+12,L,PIT,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+13,L,V8,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+14,L,VMV1,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+15,L,VMV2,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+16,L,VMV3,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+17,L,VVC,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+19,L,LO1,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+20,L,LO2,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+21,L,LO3,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+24,L,PH,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+192,R,PIT,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+193,R,V8,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+194,R,VMV1,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+195,R,VMV2,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+196,R,VMV3,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+197,R,VVC,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+199,R,LO1,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+200,R,LO2,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+201,R,LO3,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+204,R,PH,2,VVC,Ventral visual cortex,腹侧视觉系统,3528
+5,L,IPS1,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+101,L,7AL,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+102,L,7Am,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+103,L,7PC,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+104,L,7PL,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+105,L,7Pm,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+106,L,AIP,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+107,L,LIPd,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+108,L,LIPv,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+109,L,MIP,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+110,L,VIP,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+111,L,IP0,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+112,L,IP1,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+113,L,IP2,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+114,L,PF,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+115,L,PFm,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+116,L,PFop,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+117,L,PFt,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+118,L,PGi,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+119,L,PGp,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+120,L,PGs,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+185,R,IPS1,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+281,R,7AL,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+282,R,7Am,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+283,R,7PC,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+284,R,7PL,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+285,R,7Pm,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+286,R,AIP,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+287,R,LIPd,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+288,R,LIPv,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+289,R,MIP,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+290,R,VIP,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+291,R,IP0,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+292,R,IP1,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+293,R,IP2,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+294,R,PF,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+295,R,PFm,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+296,R,PFop,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+297,R,PFt,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+298,R,PGi,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+299,R,PGp,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+300,R,PGs,3,SPL/IPL,Superior and inferior parietal lobules,顶上小叶/顶下小叶,13938
+59,L,RI,4,Insula,Insular cortex,岛叶,3322
+68,L,AAIC,4,Insula,Insular cortex,岛叶,3322
+69,L,AVI,4,Insula,Insular cortex,岛叶,3322
+74,L,Ig,4,Insula,Insular cortex,岛叶,3322
+75,L,MI,4,Insula,Insular cortex,岛叶,3322
+76,L,PI,4,Insula,Insular cortex,岛叶,3322
+78,L,PoI1,4,Insula,Insular cortex,岛叶,3322
+79,L,PoI2,4,Insula,Insular cortex,岛叶,3322
+239,R,RI,4,Insula,Insular cortex,岛叶,3322
+248,R,AAIC,4,Insula,Insular cortex,岛叶,3322
+249,R,AVI,4,Insula,Insular cortex,岛叶,3322
+254,R,Ig,4,Insula,Insular cortex,岛叶,3322
+255,R,MI,4,Insula,Insular cortex,岛叶,3322
+256,R,PI,4,Insula,Insular cortex,岛叶,3322
+258,R,PoI1,4,Insula,Insular cortex,岛叶,3322
+259,R,PoI2,4,Insula,Insular cortex,岛叶,3322
+32,L,23c,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+121,L,23d,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+122,L,31a,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+123,L,31pd,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+124,L,31pv,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+125,L,7m,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+126,L,d23ab,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+128,L,PCV,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+132,L,RSC,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+133,L,v23ab,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+212,R,23c,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+301,R,23d,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+302,R,31a,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+303,R,31pd,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+304,R,31pv,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+305,R,7m,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+306,R,d23ab,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+308,R,PCV,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+312,R,RSC,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+313,R,v23ab,5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",后扣带-压后皮层-楔前叶系统,4231
+84,L,TF,6,PHG,Parahippocampal gyrus,海马旁回,2932
+85,L,PHA1,6,PHG,Parahippocampal gyrus,海马旁回,2932
+86,L,PHA2,6,PHG,Parahippocampal gyrus,海马旁回,2932
+87,L,PHA3,6,PHG,Parahippocampal gyrus,海马旁回,2932
+88,L,PHT,6,PHG,Parahippocampal gyrus,海马旁回,2932
+264,R,TF,6,PHG,Parahippocampal gyrus,海马旁回,2932
+265,R,PHA1,6,PHG,Parahippocampal gyrus,海马旁回,2932
+266,R,PHA2,6,PHG,Parahippocampal gyrus,海马旁回,2932
+267,R,PHA3,6,PHG,Parahippocampal gyrus,海马旁回,2932
+268,R,PHT,6,PHG,Parahippocampal gyrus,海马旁回,2932
+168,L,46,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+169,L,8Ad,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+170,L,8Av,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+171,L,8BL,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+172,L,8C,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+173,L,9-46d,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+174,L,9a,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+175,L,9p,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+176,L,a9-46v,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+178,L,p9-46v,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+180,L,SFL,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+348,R,46,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+349,R,8Ad,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+350,R,8Av,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+351,R,8BL,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+352,R,8C,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+353,R,9-46d,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+354,R,9a,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+355,R,9p,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+356,R,a9-46v,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+358,R,p9-46v,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+360,R,SFL,7,dlPFC,Dorsolateral prefrontal cortex,背外侧前额叶,10473
+382,L,Putam,8,DStr,Dorsal striatum,背侧纹状体,3686
+383,L,Caud,8,DStr,Dorsal striatum,背侧纹状体,3686
+415,R,Putam,8,DStr,Dorsal striatum,背侧纹状体,3686
+416,R,Caud,8,DStr,Dorsal striatum,背侧纹状体,3686
+361,L,AV,9,Thal,Thalamus,丘脑,2517
+362,L,CeM,9,Thal,Thalamus,丘脑,2517
+363,L,CL,9,Thal,Thalamus,丘脑,2517
+364,L,CM,9,Thal,Thalamus,丘脑,2517
+365,L,LD,9,Thal,Thalamus,丘脑,2517
+366,L,LGN,9,Thal,Thalamus,丘脑,2517
+367,L,LP,9,Thal,Thalamus,丘脑,2517
+368,L,L-Sg,9,Thal,Thalamus,丘脑,2517
+369,L,MDl,9,Thal,Thalamus,丘脑,2517
+370,L,MDm,9,Thal,Thalamus,丘脑,2517
+371,L,MGN,9,Thal,Thalamus,丘脑,2517
+372,L,MV(Re),9,Thal,Thalamus,丘脑,2517
+373,L,Pf,9,Thal,Thalamus,丘脑,2517
+374,L,PuA,9,Thal,Thalamus,丘脑,2517
+375,L,PuI,9,Thal,Thalamus,丘脑,2517
+376,L,PuL,9,Thal,Thalamus,丘脑,2517
+377,L,PuM,9,Thal,Thalamus,丘脑,2517
+378,L,VA,9,Thal,Thalamus,丘脑,2517
+379,L,VLa,9,Thal,Thalamus,丘脑,2517
+380,L,VLp,9,Thal,Thalamus,丘脑,2517
+381,L,VPL,9,Thal,Thalamus,丘脑,2517
+394,R,AV,9,Thal,Thalamus,丘脑,2517
+395,R,CeM,9,Thal,Thalamus,丘脑,2517
+396,R,CL,9,Thal,Thalamus,丘脑,2517
+397,R,CM,9,Thal,Thalamus,丘脑,2517
+398,R,LD,9,Thal,Thalamus,丘脑,2517
+399,R,LGN,9,Thal,Thalamus,丘脑,2517
+400,R,LP,9,Thal,Thalamus,丘脑,2517
+401,R,L-Sg,9,Thal,Thalamus,丘脑,2517
+402,R,MDl,9,Thal,Thalamus,丘脑,2517
+403,R,MDm,9,Thal,Thalamus,丘脑,2517
+404,R,MGN,9,Thal,Thalamus,丘脑,2517
+405,R,MV(Re),9,Thal,Thalamus,丘脑,2517
+406,R,Pf,9,Thal,Thalamus,丘脑,2517
+407,R,PuA,9,Thal,Thalamus,丘脑,2517
+408,R,PuI,9,Thal,Thalamus,丘脑,2517
+409,R,PuL,9,Thal,Thalamus,丘脑,2517
+410,R,PuM,9,Thal,Thalamus,丘脑,2517
+411,R,VA,9,Thal,Thalamus,丘脑,2517
+412,R,VLa,9,Thal,Thalamus,丘脑,2517
+413,R,VLp,9,Thal,Thalamus,丘脑,2517
+414,R,VPL,9,Thal,Thalamus,丘脑,2517
+387,L,Amyg,10,Amyg,Amygdala,杏仁核,405
+420,R,Amyg,10,Amyg,Amygdala,杏仁核,405
+33,L,24dd,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+34,L,24dv,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+137,L,33pr,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+140,L,a24,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+141,L,a24pr,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+142,L,a32pr,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+143,L,d32,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+144,L,p24,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+145,L,p24pr,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+213,R,24dd,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+214,R,24dv,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+317,R,33pr,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+320,R,a24,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+321,R,a24pr,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+322,R,a32pr,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+323,R,d32,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+324,R,p24,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+325,R,p24pr,11,ACC,Anterior cingulate cortex,前扣带皮层,4131
+63,L,STSda,12,STS,Superior temporal sulcus,上颞沟,2234
+64,L,STSdp,12,STS,Superior temporal sulcus,上颞沟,2234
+65,L,STSva,12,STS,Superior temporal sulcus,上颞沟,2234
+66,L,STSvp,12,STS,Superior temporal sulcus,上颞沟,2234
+243,R,STSda,12,STS,Superior temporal sulcus,上颞沟,2234
+244,R,STSdp,12,STS,Superior temporal sulcus,上颞沟,2234
+245,R,STSva,12,STS,Superior temporal sulcus,上颞沟,2234
+246,R,STSvp,12,STS,Superior temporal sulcus,上颞沟,2234
+11,L,FFC,13,FFC,Fusiform face complex / fusiform cortex,梭状回/梭状面孔复合区,1031
+191,R,FFC,13,FFC,Fusiform face complex / fusiform cortex,梭状回/梭状面孔复合区,1031
+134,L,10r,14,vmPFC,Ventromedial prefrontal cortex,腹内侧前额叶,2601
+135,L,10v,14,vmPFC,Ventromedial prefrontal cortex,腹内侧前额叶,2601
+136,L,25,14,vmPFC,Ventromedial prefrontal cortex,腹内侧前额叶,2601
+146,L,p32,14,vmPFC,Ventromedial prefrontal cortex,腹内侧前额叶,2601
+147,L,p32pr,14,vmPFC,Ventromedial prefrontal cortex,腹内侧前额叶,2601
+149,L,s32,14,vmPFC,Ventromedial prefrontal cortex,腹内侧前额叶,2601
+314,R,10r,14,vmPFC,Ventromedial prefrontal cortex,腹内侧前额叶,2601
+315,R,10v,14,vmPFC,Ventromedial prefrontal cortex,腹内侧前额叶,2601
+316,R,25,14,vmPFC,Ventromedial prefrontal cortex,腹内侧前额叶,2601
+326,R,p32,14,vmPFC,Ventromedial prefrontal cortex,腹内侧前额叶,2601
+327,R,p32pr,14,vmPFC,Ventromedial prefrontal cortex,腹内侧前额叶,2601
+329,R,s32,14,vmPFC,Ventromedial prefrontal cortex,腹内侧前额叶,2601
+148,L,pOFC,15,OFC,Orbitofrontal cortex,眶额皮层,4230
+152,L,11l,15,OFC,Orbitofrontal cortex,眶额皮层,4230
+153,L,13l,15,OFC,Orbitofrontal cortex,眶额皮层,4230
+154,L,47m,15,OFC,Orbitofrontal cortex,眶额皮层,4230
+155,L,47s,15,OFC,Orbitofrontal cortex,眶额皮层,4230
+157,L,OFC,15,OFC,Orbitofrontal cortex,眶额皮层,4230
+328,R,pOFC,15,OFC,Orbitofrontal cortex,眶额皮层,4230
+332,R,11l,15,OFC,Orbitofrontal cortex,眶额皮层,4230
+333,R,13l,15,OFC,Orbitofrontal cortex,眶额皮层,4230
+334,R,47m,15,OFC,Orbitofrontal cortex,眶额皮层,4230
+335,R,47s,15,OFC,Orbitofrontal cortex,眶额皮层,4230
+337,R,OFC,15,OFC,Orbitofrontal cortex,眶额皮层,4230
+80,L,Hipp,16,Hipp,Hippocampus,海马,997
+260,R,Hipp,16,Hipp,Hippocampus,海马,997
+82,L,EC,17,EC,Entorhinal cortex,内嗅皮层,542
+262,R,EC,17,EC,Entorhinal cortex,内嗅皮层,542

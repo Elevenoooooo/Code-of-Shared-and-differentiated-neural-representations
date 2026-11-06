@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Please cite the associated study when using this analysis code."
+type: software
+title: "Analysis code for shared and differentiated neural representations of urban scenes in the human brain"
+version: 1.0.0
+date-released: 2026-11-06
+license: MIT
+authors:
+  - family-names: Deng
+    given-names: Zhitao
+  - family-names: Qin
+    given-names: Tong
+  - family-names: Wu
+    given-names: Yulin
+  - family-names: He
+    given-names: Bing
+  - family-names: Yang
+    given-names: Tianyu
+  - family-names: Zhang
+    given-names: Fan
+  - family-names: Gao
+    given-names: Song
+  - family-names: Wan
+    given-names: Xiaohong
+  - family-names: Manley
+    given-names: Ed
+  - family-names: Huang
+    given-names: Haosheng
+  - family-names: Wang
+    given-names: Qiao
+  - family-names: Dong
+    given-names: Weihua
+abstract: "Analysis of behavioural ratings, gaze distributions, task activation, beta-series connectivity and representational similarity in urban visual perception."

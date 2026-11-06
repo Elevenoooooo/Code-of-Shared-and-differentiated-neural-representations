@@ -1,0 +1,9 @@
+# Python dependencies for the study analyses.
+numpy>=1.24,<3
+pandas>=2.0,<3
+scipy>=1.10,<2
+scikit-image>=0.21,<1
+Pillow>=10,<13
+matplotlib>=3.7,<4
+# Optional: pip install -e ".[neuro]" for NIfTI-based Python summaries.
+# Optional: pip install -e ".[features]" for the OpenCV feature utility.

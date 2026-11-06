@@ -1,0 +1,18 @@
+ROI_ID,ROI,Name,Retained15,Representative3
+1,OVC,Occipital visual cortex,True,False
+2,VVC,Ventral visual cortex,True,True
+3,PPC,Superior and inferior parietal lobules,True,True
+4,Insula,Insular cortex,True,False
+5,PCC,"Posterior cingulate, retrosplenial cortex and precuneus",True,False
+6,PHG,Parahippocampal gyrus,True,False
+7,dlPFC,Dorsolateral prefrontal cortex,True,False
+8,DStr,Dorsal striatum,True,False
+9,Thal,Thalamus,True,False
+10,Amyg,Amygdala,False,False
+11,ACC,Anterior cingulate cortex,True,False
+12,STS,Superior temporal sulcus,True,False
+13,FFC,Fusiform face complex / fusiform cortex,True,False
+14,vmPFC,Ventromedial prefrontal cortex,True,True
+15,OFC,Orbitofrontal cortex,True,False
+16,Hipp,Hippocampus,True,False
+17,EC,Entorhinal cortex,False,False

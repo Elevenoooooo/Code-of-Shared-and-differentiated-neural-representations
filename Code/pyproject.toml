@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "urban-perception-study"
+version = "1.0.0"
+description = "Analysis components for shared and differentiated neural representations of urban scenes"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+dependencies = [
+  "numpy>=1.24,<3", "pandas>=2.0,<3", "scipy>=1.10,<2",
+  "scikit-image>=0.21,<1", "Pillow>=10,<13", "matplotlib>=3.7,<4"
+]
+
+[project.optional-dependencies]
+neuro = ["nibabel>=5.1,<6"]
+features = ["opencv-python>=4.8,<5"]
+
+[tool.setuptools.packages.find]
+where = ["python"]
